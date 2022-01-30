@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hamidi-Oussama.
 - 👀 I’m interested in : mainly circuit designing .
 - 🌱 I’m currently studying in IEEE University .
-- 💞️ I’m looking to collaborate on .
+- 💞️ I’m looking to collaborate on circuit designing (not qualified enought yet , but if you know a way i can improve help me out) .
 - 📫 How to reach me : Gmail : hamidioussamaho@gmail.com ;
                        facebook : Hamidi Oussama(Expert Noix) ;
                        instgram : @_hamidi_oussama_ ;
