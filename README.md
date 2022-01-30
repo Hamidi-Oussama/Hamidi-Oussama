@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Hamidi-Oussama.
-- 👀 I’m interested in : mainly app programing and automation.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on (not qualified yet).
+- 👀 I’m interested in : mainly circuit designing .
+- 🌱 I’m currently studying in IEEE University .
+- 💞️ I’m looking to collaborate on .
 - 📫 How to reach me : Gmail : hamidioussamaho@gmail.com ;
-                       facebook : Oussama Samma(Expert Noix) ;
-                       instgram : @samma_desu ;
+                       facebook : Hamidi Oussama(Expert Noix) ;
+                       instgram : @_hamidi_oussama_ ;
                        
         God Bless you ❤                
 
