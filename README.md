@@ -6,7 +6,7 @@
                        facebook : Hamidi Oussama ;
                        instgram : @_hamidi_oussama_ ;
                        
-        God Bless you ❤                
+        God Bless you               
 
 <!---
 Hamidi-Oussama/Hamidi-Oussama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
