@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Hamidi-Oussama.
-- 👀 I’m interested in : mainly circuit designing .
+- 👀 I’m interested in : Machine Learning - PCB design .
 - 🌱 I’m currently studying in IEEE University .
-- 💞️ I’m looking to collaborate on circuit designing (not qualified enought yet , but if you know a way i can improve help me out) .
+- 💞️ I’m looking to collaborate on (not qualified enought yet) .
 - 📫 How to reach me : Gmail : hamidioussamaho@gmail.com ;
-                       facebook : Hamidi Oussama(Expert Noix) ;
+                       facebook : Hamidi Oussama ;
                        instgram : @_hamidi_oussama_ ;
                        
         God Bless you ❤                
