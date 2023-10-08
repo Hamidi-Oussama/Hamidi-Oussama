@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Hamidi-Oussama.
-- 👀 I’m interested in : Machine Learning - PCB design .
+- 👀 I’m interested in : Machine Learning - deep learning.
 - 🌱 I’m currently studying in IEEE University .
-- 💞️ I’m looking to collaborate on (not qualified enought yet) .
-- 📫 How to reach me : Gmail : hamidioussamaho@gmail.com ;
-                       facebook : Hamidi Oussama ;
-                       instgram : @_hamidi_oussama_ ;
+- 💞️ I’m looking to collaborate on machine learning and deep learning project .
+- 📫 How to reach me on Gmail : hamidioussamaho@gmail.com ;
+ facebook : Hamidi Oussama ;
+ instgram : @_hamidi_oussama_ ;
                        
         God Bless you               
 
